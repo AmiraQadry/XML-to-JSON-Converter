@@ -1,5 +1,6 @@
 # XML to JSON Converter
 ![](https://jsonformatter.org/img/xml-to-json.png)
+
 This project provides a simple Python script to convert XML data to JSON format using the `xmltodict` and `json` libraries.
 
 ## Requirements
